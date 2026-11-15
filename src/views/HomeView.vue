@@ -87,7 +87,7 @@ const manejarCarrito = (productoSeleccionado) => {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 2rem;
-  /* Línea roja deportiva en lugar de negra */
+  /* Línea roja */
   border-bottom: 2px solid #e63946; 
   padding-bottom: 1rem;
 }
