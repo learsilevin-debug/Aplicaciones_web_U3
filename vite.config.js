@@ -19,7 +19,7 @@ export default defineConfig({
         background_color: '#f4f4f4',
         display: 'standalone',
         icons: [
-          // Icono genérico (puedes omitirlo o poner un logo real más tarde)
+          // Icono genérico 
           {
             src: 'https://cdn-icons-png.flaticon.com/512/2936/2936886.png',
             sizes: '512x512',
